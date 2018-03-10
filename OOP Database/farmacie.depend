@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1495322379 source:e:\info\farmacie\main.cpp
+	<iostream>
+	"chestionar.h"
+	<windows.h>
+
+1495317219 source:e:\info\farmacie\farmacie.cpp
+	<iostream>
+	"farmacie.h"
+	<string.h>
+
+1495303676 e:\info\farmacie\farmacie.h
+	<iostream>
+	"farmacieAbstract.h"
+
+1495324324 source:e:\info\farmacie\farmacieonline.cpp
+	<iostream>
+	<string.h>
+	"farmacieOnline.h"
+
+1495311096 e:\info\farmacie\farmacieonline.h
+	<iostream>
+	"farmacie.h"
+
+1494794590 e:\info\farmacie\farmacieabstract.h
+	<iostream>
+
+1495058267 source:e:\info\farmacie\chestionar.cpp
+
+1495319085 e:\info\farmacie\chestionar.h
+	<iostream>
+	<string.h>
+	"farmacieOnline.h"
+
